@@ -7,4 +7,4 @@ Machine learning techniques implemented:
 - Linear Regression
 - Self-Organizing Maps
 
-Paper can be found in /files.
+Paper can be found in [here](https://github.com/tiongsonkj/lewis-capstone-2022/blob/main/files/final.pdf).
